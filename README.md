@@ -53,11 +53,3 @@ Step 2: Data Cleanup: Any missing or incorrect entries are fixed, and the data i
 Step 3: Visualizations: Charts and graphs are created to compare average temperatures by month or to track rainfall trends in different regions.
 
 Step 4: Dashboard: All visualizations are combined into one dashboard, allowing users to filter by city or year to explore how the weather has changed.
-
-Why It's Useful for an Average Student:
-
-Easy to Understand: Power BI provides visualizations, making it easy to interpret data trends even without technical knowledge.
-
-Interactive: Users can explore the data on their own by clicking on charts and filtering information to answer specific questions.
-
-Real-Life Application: Weather data is something everyone can relate to, and understanding trends helps in many fields like agriculture, event planning, and even daily life choices.
